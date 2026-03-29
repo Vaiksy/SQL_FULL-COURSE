@@ -1,1 +1,1 @@
-# SQL_FULL-COURSE   / IN this REPO i will upload and teach you all the you should and have to learn about SQL to live in this world of AI and iykyk
+# SQL_FULL-COURSE   / IN this REPO i will upload and teach you all the you should and have to learn about SQL to live in this world of AI and iykyk and i am also working on a project where you can learn sql needed for data analyst or science 
